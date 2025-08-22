@@ -1,16 +1,12 @@
 ![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
-
 <h1 align="center">Hello 👋, I'm Shashank...</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India <img src="https://flagsweb.com/Flag_Emoji/India_Flag_Emoji.png" width="15px"></h3>
+<h3 align="center" >A passionate Java Full Stack Developer from India <img src="https://flagsweb.com/Flag_Emoji/India_Flag_Emoji.png" width="15px"> </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shashank-se&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-se" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-se&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-se" /> </p>
 
 - 📫 Reach out to me at **shashankjsdev@gmail.com**
 
 ---
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shashank---k" target="_blank">
@@ -25,9 +21,8 @@
 </p>
 
 ---
-
-<div>
-    <h3 align="left">Languages and Tools:</h3>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-se&show_icons=true&locale=en&layout=compact" alt="shashank-se" height="170em"/></p>
+<h3 align="left">Languages and Tools:</h3>
    <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>
@@ -84,11 +79,9 @@
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"/>
   </a>
 </p>
- <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-se&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shashank-se" height="150em"/> </p>
-</div>
 
 ---
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-se&theme=tokyonight" alt="shashank-se" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api?username=shashank-se&&theme=tokyonight" alt="shashank-se" height="180em" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-se&" alt="shashank-se" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=shashank-se&show_icons=true&locale=en" alt="shashank-se" style="float: left; margin-right: 10px;" /></p>
+
